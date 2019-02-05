@@ -192,7 +192,7 @@ And for example generated views by controller you just need to adding some card 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at (ReadyBootDash)[https://github.com/adhamkurniawan29/ready_boot_dash/issues].
+Bug reports and pull requests are welcome on GitHub at [ReadyBootDash](https://github.com/adhamkurniawan29/ready_boot_dash/issues).
 
 ## License
 
