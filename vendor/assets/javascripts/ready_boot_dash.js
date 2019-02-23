@@ -1,6 +1,5 @@
 //= require migrate-template/core/jquery.3.2.1.min
 //= require migrate-template/plugin/jquery-ui-1.12.1.custom/jquery-ui.min
-//= require jquery.validate
 //= require migrate-template/core/popper.min
 //= require migrate-template/core/bootstrap.min
 //= require migrate-template/plugin/chartist/chartist.min
