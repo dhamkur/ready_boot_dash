@@ -23,6 +23,7 @@ Add this line to your application's Gemfile:
 
 ```ruby
 gem 'ready_boot_dash'
+gem 'jquery-validation-rails'
 ```
 
 And then execute:
